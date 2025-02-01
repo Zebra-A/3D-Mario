@@ -46,6 +46,7 @@ private:
 	UPROPERTY(EditAnywhere, Category = "Input")
 	UInputAction* JumpAction;
 
+
 	UPROPERTY(EditAnywhere, Category = "Input")
 	UInputAction* FireAction;
 
